@@ -16,8 +16,12 @@ main {
     padding: 20px;
 }
 
-h1, h2 {
-    color: #ffffff;
+h1 {
+    color: #c0c3ff;
+}
+
+h2 {
+    color: #3a64f8;
 }
 
 p {
@@ -34,7 +38,7 @@ li {
 }
 
 a {
-    color: #4CAF50;
+    color: #3a64f8;
     text-decoration: none;
 }
 
