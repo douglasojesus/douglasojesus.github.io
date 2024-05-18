@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #4c65d8;
+    background-color: #4CAF50;
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -16,12 +16,8 @@ main {
     padding: 20px;
 }
 
-h1 {
-    color: #c0c3ff;
-}
-
-h2 {
-    color: #3a64f8;
+h1, h2 {
+    color: #333;
 }
 
 p {
@@ -38,7 +34,7 @@ li {
 }
 
 a {
-    color: #3a64f8;
+    color: #4CAF50;
     text-decoration: none;
 }
 
