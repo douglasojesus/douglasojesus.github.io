@@ -10,7 +10,8 @@ body {
 header {
     background-color: #6fa4e6; /* Azul pastel */
     color: white;
-    padding: 20px 0;
+    text-align: center;
+    padding: 15px 0;
 }
 
 /* Estilo do conteúdo principal */
