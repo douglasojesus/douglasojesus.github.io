@@ -8,7 +8,7 @@ body {
 
 header {
     background-image: url('images/header_presentation.png'); 
-    color: #004AAD;;
+    color: #F9F6EE;
     text-align: center;
     padding: 15px 0;
     background-size: cover; 
@@ -20,7 +20,10 @@ main {
 }
 
 /* Estilo dos títulos */
-h1, h2 {
+h1 {
+    color: #004AAD;
+}
+h2 {
     color: #454545;
 }
 
