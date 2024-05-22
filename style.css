@@ -8,10 +8,10 @@ body {
 
 header {
     background-image: url('images/header_presentation.png'); 
-    color: #F9F6EE;;
+    color: #004AAD;;
     text-align: center;
     padding: 15px 0;
-    background-size: auto; 
+    background-size: cover; 
 }
 
 /* Estilo do conteúdo principal */
