@@ -3,15 +3,15 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #F9F6EE;
 }
 
-/* Estilo do cabeçalho */
 header {
-    background-color: #6fa4e6; /* Azul pastel */
+    background-image: url('images/header_presentation.png'); 
     color: white;
     text-align: center;
     padding: 15px 0;
+    background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o elemento */
 }
 
 /* Estilo do conteúdo principal */
