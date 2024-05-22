@@ -8,7 +8,7 @@ body {
 
 /* Estilo do cabeçalho */
 header {
-    background-color: #4CAF50;
+    background-color: #6fa4e6; /* Azul pastel */
     color: white;
     padding: 20px 0;
 }
@@ -41,7 +41,7 @@ li {
 
 /* Estilo dos links */
 a {
-    color: #4CAF50;
+    color: #6fa4e6; /* Azul pastel */
     text-decoration: none;
 }
 
@@ -51,7 +51,7 @@ a:hover {
 
 /* Estilo do rodapé */
 footer {
-    background-color: #333;
+    background-color: #999; /* Cinza */
     color: white;
     text-align: center;
     padding: 5px 0;
