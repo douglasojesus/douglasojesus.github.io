@@ -11,7 +11,7 @@ header {
     color: white;
     text-align: center;
     padding: 15px 0;
-    background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o elemento */
+    background-size: auto; 
 }
 
 /* Estilo do conteúdo principal */
